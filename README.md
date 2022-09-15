@@ -11,7 +11,7 @@
 <hr>
 
 ## Features
-- Custom colors for default embeds accepted suggestions, and declined suggestions (Setup)
+- Custom colors for default the embed, accepted suggestions, and declined suggestions (Setup)
 - Accept or decline or just start the suggestion again (Commands)
 - Upvote or downvote a suggestion
 
