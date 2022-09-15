@@ -17,6 +17,7 @@
 - [Roald Button Handler](https://github.com/RoaldDahl/Button-Handler)
 - discord.js@14.3.0
 - mongoose
+- [MongoDB Database (FREE)](https://www.mongodb.com/)
 
 ## **Database Connection:**
 ```js
