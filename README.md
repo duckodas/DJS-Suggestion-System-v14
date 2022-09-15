@@ -2,8 +2,6 @@
 <h3 align="center">System made with 💖 by Ducko#7068</h3>
 
 <div align="center">
-
-[![discord](https://img.shields.io/discord/909261119103832084?style=for-the-badge&color=5865f2&label=Discord)](https://discord.gg/TKz7BMwEap)
   
 [![issues](https://img.shields.io/github/issues/DuckoDas/DuckoDas?style=for-the-badge&color=d84559)](https://github.com/DuckoDas/DJS-Suggestion-System-v14)
 [![stars](https://img.shields.io/github/stars/duckodas?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/DJS-Suggestion-System-v14)
