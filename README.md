@@ -4,7 +4,7 @@
 <div align="center">
   
 [![issues](https://img.shields.io/github/issues/DuckoDas/DuckoDas?style=for-the-badge&color=d84559)](https://github.com/DuckoDas/DJS-Suggestion-System-v14)
-[![stars](https://img.shields.io/github/stars/duckodas?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/DJS-Suggestion-System-v14)
+[![stars](https://img.shields.io/github/stars/duckodas/DJS-Suggestion-System-v14?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/DJS-Suggestion-System-v14)
 [![followers](https://img.shields.io/github/followers/DuckoDas?color=009F81&style=for-the-badge)](https://github.com/DuckoDas/)
 
 </div>
