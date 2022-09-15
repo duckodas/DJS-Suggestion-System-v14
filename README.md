@@ -10,6 +10,11 @@
 </div>
 <hr>
 
+## Features
+- Custom colors for default embeds, accepted suggestions, and declined suggestions (Setup)
+- Accept or decline or just start the suggestion again (Commands)
+- Upvote or downvote an suggestion
+
 ## **Dependencies:**
 - [Roald Modal Handler](https://github.com/RoaldDahl/Modal-Handler)
 - [Roald Button Handler](https://github.com/RoaldDahl/Button-Handler)
