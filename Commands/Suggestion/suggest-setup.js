@@ -133,11 +133,6 @@ module.exports = {
         }
       );
 
-      const SuggestionsDB = await Suggestions.findOne({
-        GuildId: guild.id,
-        ChannelID: channel.id,
-      });
-
       if (!SuggestionSetup)
         return i.reply({
           content: `> **Warning:** There is no data to delete...`,
