@@ -34,6 +34,9 @@ module.exports = {
 };
 ```
 
+## Little screenshot when a suggestion is sent:D
+![Image](https://media.discordapp.net/attachments/1017511503139704852/1019974357885395017/unknown.png)
+
 ## **Credits:**
 - [Roald Dahl](https://github.com/RoaldDahl/Modal-Handler) for helping + ideas
 - [Telly](https://github.com/CantTelly) for testing + ideas
