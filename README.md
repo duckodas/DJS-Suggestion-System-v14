@@ -32,3 +32,7 @@ module.exports = {
   },
 };
 ```
+
+## **Credits:**
+- [Roald Dahl](https://github.com/RoaldDahl/Modal-Handler) for helping
+- [Telly](https://github.com/CantTelly) for helping + testing + ideas
