@@ -13,7 +13,7 @@
 ## **Dependencies:**
 - [Roald Modal Handler](https://github.com/RoaldDahl/Modal-Handler)
 - [Roald Button Handler](https://github.com/RoaldDahl/Button-Handler)
-- discord.js@14.3.0
+- discord.js@14.3.0 or higher
 - mongoose
 - [MongoDB Database (FREE)](https://www.mongodb.com/)
 
