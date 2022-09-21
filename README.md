@@ -9,6 +9,12 @@
 [![stars](https://img.shields.io/github/stars/DuckoDas/DJS-Suggestion-System-v14?color=009F81&label=stars&style=for-the-badge)](https://github.com/DuckoDas/DJS-Suggestion-System-v14)
 [![followers](https://img.shields.io/github/followers/DuckoDas?color=009F81&style=for-the-badge)](https://github.com/DuckoDas/)
 
+**Advanced Suggestions System with Modals and Buttons**
+
+**Upvote and Downvote button**
+
+**Role to accept or decline or restart a suggestion!**
+
 </div>
 <hr>
 
@@ -40,7 +46,21 @@ module.exports = {
 ```
 
 ## Little screenshot when a suggestion is sent:D
-![Image](https://media.discordapp.net/attachments/1017511503139704852/1019974357885395017/unknown.png)
+### Suggestion Preview
+![Image](https://media.discordapp.net/attachments/1022195786064330842/1022195798546591785/unknown.png)
+### When Suggestion Preview
+![Image](https://media.discordapp.net/attachments/1022195786064330842/1022196236402577450/unknown.png)
+### Voting on Suggestions Preview
+![Image](https://media.discordapp.net/attachments/1022195786064330842/1022196331353219113/unknown.png)
+### Can't Vote on Different Suggestion Preview
+![Image](https://media.discordapp.net/attachments/1022195786064330842/1022196388156678226/unknown.png)
+### Deleting Suggestions
+![Image](https://media.discordapp.net/attachments/1022195786064330842/1022196510533898260/unknown.png)
+### Accepting Suggestions
+![Image](https://media.discordapp.net/attachments/1022195786064330842/1022196694512832512/unknown.png)
+### Declining Suggestions
+![Image](https://media.discordapp.net/attachments/1022195786064330842/1022199447943389194/unknown.png)
+
 
 ## **Credits:**
 - [Roald Dahl](https://github.com/RoaldDahl/Modal-Handler) for helping + ideas
