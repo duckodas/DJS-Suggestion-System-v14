@@ -18,6 +18,7 @@ module.exports = {
    */
   async execute(interaction) {
     const { guild } = interaction;
+    const i = interaction
     const SuggestionSetupDB = await SuggestionSetup.findOne({
       GuildID: guild.id,
     });
